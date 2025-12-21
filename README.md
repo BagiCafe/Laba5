@@ -27,9 +27,9 @@
 
 Доказательства:
 
-<img width="1920" height="1080" alt="debug_1" src="https://github.com/user-attachments/assets/7bb9a7c1-dbfc-4449-9051-062c75604ec3" />
+![debug_1.png](screenshots/debug_1.png)
 
-<img width="1838" height="735" alt="bug_1" src="https://github.com/user-attachments/assets/62d325e4-2b69-48d2-878b-65b0efbd534b" />
+![bug_1.png](screenshots/bug_1.png)
 
 
 ### Ошибка 2 - Перехват слишком общего исключения
@@ -57,7 +57,7 @@
 
 Доказательства:
 
-<img width="1920" height="1080" alt="Ошибка_дебагер_2" src="https://github.com/user-attachments/assets/76795007-e93c-4102-a868-e16445089125" />
+![debug_2.png](screenshots/debug_2.png)
 
 Ошибки в командной строке нет
 
@@ -87,9 +87,9 @@
 
 Доказательства:
 
-<img width="1920" height="1080" alt="Ошибка_дебагер_3" src="https://github.com/user-attachments/assets/4b1811af-a292-4b97-a7aa-f8d777534e39" />
+![debug_3.png](screenshots/debug_3.png)
 
-<img width="1841" height="405" alt="Ошибка_3" src="https://github.com/user-attachments/assets/571923b9-785a-4341-9fb5-8d1f13e707a9" />
+![bug_3.png](screenshots/bug_3.png)
 
 
 ### Ошибка 4 - Перепутанные аргументы или поля объекта
@@ -117,9 +117,9 @@
 
 Доказательства:
 
-<img width="1920" height="1080" alt="Ошибка_дебагер_4" src="https://github.com/user-attachments/assets/0cbbc3a5-4f9a-480e-8ec8-690c8bb06b5e" />
+![debug_4.png](screenshots/debug_4.png)
 
-<img width="1836" height="729" alt="Ошибка_4" src="https://github.com/user-attachments/assets/6d14d322-3c23-4b62-b9a4-9636b90f0ddd" />
+![bug_4.png](screenshots/bug_4.png)
 
 
 ### Ошибка 5 - Неправильный разбор строки или входных данных
@@ -147,6 +147,6 @@
 
 Доказательства:
 
-<img width="1920" height="1080" alt="Ошибка_дебагер_5" src="https://github.com/user-attachments/assets/844101e5-da9e-4f9b-95c5-f64d3f55ea02" />
+![debug_5.png](screenshots/debug_5.png)
 
-<img width="1834" height="705" alt="Ошибка_5" src="https://github.com/user-attachments/assets/42c2fd6d-3da9-41d4-9287-82cdca8d6750" />
+![bug_5.png](screenshots/bug_5.png)
