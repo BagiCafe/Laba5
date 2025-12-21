@@ -27,9 +27,9 @@
 
 Доказательства:
 
-<img width="1920" height="1080" alt="Ошибка_дебагер_1" src="https://github.com/user-attachments/assets/d75dc413-1cd9-42ad-ba1a-08cbe380c66f" />
+<img width="1920" height="1080" alt="debug_1" src="https://github.com/user-attachments/assets/7bb9a7c1-dbfc-4449-9051-062c75604ec3" />
 
-<img width="1838" height="735" alt="Ошибка_1" src="https://github.com/user-attachments/assets/0c26d2b0-27df-4a8c-a744-0a066e97faa0" />
+<img width="1838" height="735" alt="bug_1" src="https://github.com/user-attachments/assets/62d325e4-2b69-48d2-878b-65b0efbd534b" />
 
 
 ### Ошибка 2 - Перехват слишком общего исключения
